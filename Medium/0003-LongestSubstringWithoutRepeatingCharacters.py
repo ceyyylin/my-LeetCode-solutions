@@ -1,5 +1,5 @@
 # runtime: 1183 ms, beats 5.02% (learn sliding window method asap)
-# find the length of the longest substring without duplicate characters using brute force
+# finds the length of the longest substring without duplicate characters using brute force
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
